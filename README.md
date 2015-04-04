@@ -1,0 +1,1 @@
+This is a two player split screen shooter game. It is a java applet that I made in CSC 413: Software Development (Fall 2013). 
